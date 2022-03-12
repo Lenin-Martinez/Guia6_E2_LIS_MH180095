@@ -1,0 +1,20 @@
+body
+{
+    background-color: rgb(65, 88, 88);
+}
+.entrada
+{
+    float: left;
+    width: 45%;
+    text-align: right;
+    padding-top: 10%;
+    font-size: 25px;
+}
+.resultado
+{
+    float: left;
+    width: 45%;
+    text-align: center;
+    padding-top: 5%;
+    font-size: 25px;
+}
